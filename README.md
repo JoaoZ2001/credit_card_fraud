@@ -22,3 +22,7 @@ Criar um modelo de aprendizado de máquina baseado no **XGBoost** para prever fr
 ### 4. **Preparação dos Dados** 📊
 ### 5. **Treinamento e Avaliação do Modelo** 📈
 ### 6. **Deploy do Modelo e Detecção de Fraudes em Novas Transações** 🚀
+
+
+## Link para o dataset utilizado:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
